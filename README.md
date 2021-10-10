@@ -21,7 +21,7 @@ src/data/data.cc
 
 可以结合博客和本项目的源码注释理解 xgboost 的原理
 
-博客地址
+## 博客地址
 
 [1] https://www.yinxiang.com/everhub/note/b5ffa121-50f1-4315-aa7b-3e84bff90e47
 
